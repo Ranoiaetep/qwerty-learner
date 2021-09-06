@@ -1,0 +1,20 @@
+[
+  {
+    "name": "all_of()",
+    "trans": [
+      "all_of() 方法检查谓词是否对范围中所有元素为true"
+    ]
+  },
+  {
+    "name": "any_of()",
+    "trans": [
+      "any_of() 方法检查谓词是否对范围中任意元素为true"
+    ]
+  },
+  {
+    "name": "none_of()",
+    "trans": [
+      "none_of() 方法检查谓词是否对范围中无元素为true"
+    ]
+  }
+]
